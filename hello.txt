@@ -5,7 +5,4 @@ hello this is my first file for test git project!
 hello this is my first file for test git project!
 hello this is my first file for test git project!
 hello this is my first file for test git project!
-hello this is my first file for test git project!
-hello this is my first file for test git project!
 this is changed in hot-fix!
-hello this is my first file for test git project!
